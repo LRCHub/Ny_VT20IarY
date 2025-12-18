@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "月光花",
+  "base_artist": "Janne Da Arc",
+  "createdAt": "2025-12-18T00:43:28.473083Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "月光花",
+      "artist": "Janne Da Arc",
+      "has_synced": true,
+      "path": "select/01_月光花_Janne_Da_Arc.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "月光花",
+      "artist": "Janne Da Arc",
+      "has_synced": true,
+      "path": "select/02_月光花_Janne_Da_Arc.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "月光花 (ブラックジャック)",
+      "artist": "Jousei Nagatomo",
+      "has_synced": true,
+      "path": "select/03_月光花_(ブラックジャック)_Jousei_Nagatomo.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "月光花",
+      "artist": "Janne Da Arc",
+      "has_synced": true,
+      "path": "select/04_月光花_Janne_Da_Arc.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "月光花",
+      "artist": "Janne Da Arc",
+      "has_synced": true,
+      "path": "select/05_月光花_Janne_Da_Arc.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "月光花",
+      "artist": "Janne Da Arc",
+      "has_synced": false,
+      "path": "select/pl_01_月光花_Janne_Da_Arc.txt"
+    }
+  ]
+}
